@@ -12,5 +12,5 @@
 |6|[Random Forest, XGBoost](https://github.com/Notrew/DSCI-552/blob/main/Homework%206/Homework6.pdf)|[Python](https://github.com/Notrew/DSCI-552/tree/main/Homework%206) |`Random Forest` `XGBoost`|100/100|
 |7|[SVM, K-Means](https://github.com/Notrew/DSCI-552/blob/main/Homework%207/Homework7.pdf)|[Python](https://github.com/Notrew/DSCI-552/tree/main/Homework%207)| `SVM` `K-Means`|100/100|
 |~~8~~|[~~DROP~~](https://github.com/Notrew/DSCI-552/blob/main/Homework%208/Homework8.pdf)|[~~Python~~](https://github.com/Notrew/DSCI-552/tree/main/Homework%208) ||~~100/100~~|
-|-|[Final Project](https://github.com/Notrew/DSCI-552/blob/main/project/Final%20Project.pdf)|[Python](https://github.com/Notrew/iRecycler-App-Building-main/tree/main/scr) |`tTransfer Learning` `Image Classification` `VGG`|95/100|
+|-|[Final Project](https://github.com/Notrew/DSCI-552/blob/main/project/Final%20Project.pdf)|[Python](https://github.com/Notrew/iRecycler-App-Building-main/tree/main/scr) |`Transfer Learning` `Image Classification` `VGG`|95/100|
 
